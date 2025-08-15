@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  background: conic-gradient(at center, red, blue, purple, green, pink, yellow);
+}
+
+h1 {
+    text-align: center;
+}
